@@ -1,0 +1,60 @@
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\bin\Debug\HTML-IDEx.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\bin\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\bin\Debug\HTML-IDEx.xml
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Form1.resources
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Resources.resources
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\HTML-IDEx.xml
+C:\Users\Brandon\AppData\Local\Temporary Projects\HTML-IDEx\obj\x86\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.xml
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.xml
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Form1.resources
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Resources.resources
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe.manifest
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.application
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe.manifest
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.application
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.about.resources
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe.config
+C:\Users\Brandon\Documents\My Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.options.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe.config
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.xml
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\Snx.vb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe.manifest
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.application
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.exe
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.pdb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\HTML-IDEx.xml
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.about.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Form1.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.Resources.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.options.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe.manifest
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.application
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML-IDEx.exe.licenses
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\MainInput.resx
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\MainInput.Designer.vb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\MainInput.vb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\obj\x86\Debug\HTML_IDEx.MainInput.resources
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\mkc_CodeBox.dll
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\mkc_CodeBox.pdb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\syntax.txt
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\RunAsAdmin.exe
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\RunAsAdminClass.dll
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\RunAsAdminClass.pdb
+C:\Users\Brandon\Dropbox\Visual Studio 2010\HTML-IDEx\HTML-IDEx\bin\Debug\RunAsAdminClass.xml
